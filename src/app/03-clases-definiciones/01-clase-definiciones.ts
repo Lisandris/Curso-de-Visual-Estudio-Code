@@ -14,7 +14,7 @@
 */
 
 
-class SuperHeroe {
+class SuperHeroe { 
 
     nombre: string;
     poder: string;
