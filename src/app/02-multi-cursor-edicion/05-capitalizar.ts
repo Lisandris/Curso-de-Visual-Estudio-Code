@@ -1,5 +1,5 @@
 /*
-    Objetivo:
+    OBjetivo:
         Crear múltiples cursores
         Dar el formato deseado
 
@@ -20,27 +20,27 @@
 
 function capitalizados() {
 
-    const hulk       = 'brouce banner';
-    const Hawkeye    = 'cinton francis';
-    const ironman    = 'tony stark';
-    const spiderman  = 'peter parker';
-    const viudaNegra = 'natalia romanova';
+    const hulk       = 'Brouce Banner';
+    const Hawkeye    = 'Cinton francis';
+    const ironman    = 'Tony stark';
+    const spiderman  = 'Peter parker';
+    const viudaNegra = 'Natalia romanova';
 
 }
 
 function minusculas() {
 
-    const HULK       = 'brouce banner';
-    const HAWKEYE    = 'cinton francis';
-    const IRONMAN    = 'tony stark';
-    const SPIDERMAN  = 'peter parker';
-    const VIUDANEGRA = 'natalia romanova';
+    const hulk       = 'Brouce Banner';
+    const hawkeye    = 'cinton francis';
+    const ironman    = 'tony stark';
+    const spiderman  = 'peter parker';
+    const viudanegra = 'natalia romanova';
 
 }
 
 
 
-// Objetivo final (sin los comentarios)
+// OBjetivo final (sin los comentarios)
 
 function capitalizadosDemo() {
 
@@ -54,7 +54,7 @@ function capitalizadosDemo() {
 
 function minusculasDemo() {
 
-    const hulk       = 'brouce banner';
+    const hulk       = 'Brouce Banner';
     const hawkeye    = 'cinton francis';
     const ironman    = 'tony stark';
     const spiderman  = 'peter parker';
